@@ -1,0 +1,7 @@
+This program is based directly off of Rainconfigure's sourcecode made by Kaerli. Credits to him.
+
+Thanks to poiru for making the refresh sequence.
+
+Thanks to Xyrfo for delivering the folowing amazing functionalities:
+Draggable window
+refresh.ini
